@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/11/24 11:54:56.000.522,=C:\Users\Toto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/24 11:55:34.000.957,D:\Programming\PROJECTS\Munkalapkezelo\main.dfm=C:\Users\Toto\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/11/24 11:55:34.000.957,D:\Programming\PROJECTS\Munkalapkezelo\main.pas=C:\Users\Toto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/24 12:10:37.000.163,=D:\Programming\PROJECTS\ACOMMON\other_common.pas</Transaction>
+    <Transaction>2017/11/24 12:10:37.000.139,=D:\Programming\PROJECTS\ACOMMON\db_common.pas</Transaction>
+    <Transaction>2017/11/24 12:11:28.000.401,=C:\Users\Toto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/24 12:11:33.000.928,D:\Programming\PROJECTS\ACOMMON\globals.pas=C:\Users\Toto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/24 12:12:39.000.651,D:\Programming\PROJECTS\ACOMMON\db_common.pas=</Transaction>
+    <Transaction>2017/11/24 12:12:56.000.006,D:\Programming\PROJECTS\ACOMMON\other_common.pas=</Transaction>
+    <Transaction>2017/11/24 12:37:25.000.670,=D:\Programming\PROJECTS\ACOMMON\db_common.pas</Transaction>
+    <Transaction>2017/11/24 12:38:07.000.076,D:\Programming\PROJECTS\Munkalapkezelo\Munkalapkezelo.dproj=C:\Users\Toto\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/11/24 12:39:09.000.654,=D:\Programming\PROJECTS\Munkalapkezelo\Unit1.pas</Transaction>
+    <Transaction>2017/11/24 12:39:35.000.684,D:\Programming\PROJECTS\Munkalapkezelo\core.pas=D:\Programming\PROJECTS\Munkalapkezelo\Unit1.pas</Transaction>
+    <Transaction>2017/11/24 12:39:55.000.713,D:\Programming\PROJECTS\Munkalapkezelo\core.pas=</Transaction>
+    <Transaction>2017/11/24 12:40:16.000.687,=D:\Programming\PROJECTS\Munkalapkezelo\Unit1.pas</Transaction>
+    <Transaction>2017/11/24 12:40:28.000.761,D:\Programming\PROJECTS\Munkalapkezelo\main_control.pas=D:\Programming\PROJECTS\Munkalapkezelo\Unit1.pas</Transaction>
+    <Transaction>2017/11/24 12:47:08.000.266,=D:\Programming\PROJECTS\ACOMMON\other_common.pas</Transaction>
+    <Transaction>2017/11/25 13:17:43.000.558,=D:\Programming\PROJECTS\ACOMMON\hwinfo.pas</Transaction>
+    <Transaction>2017/11/27 10:51:16.000.931,=D:\Programming\PROJECTS\Munkalapkezelo\Unit1.pas</Transaction>
+    <Transaction>2017/11/27 10:51:32.000.284,D:\Programming\PROJECTS\Munkalapkezelo\user\user_class.pas=D:\Programming\PROJECTS\Munkalapkezelo\Unit1.pas</Transaction>
+    <Transaction>2017/11/27 10:52:45.000.752,=D:\Programming\PROJECTS\Munkalapkezelo\Unit1.pas</Transaction>
+    <Transaction>2017/11/27 10:52:52.000.689,D:\Programming\PROJECTS\Munkalapkezelo\user_queries.pas=D:\Programming\PROJECTS\Munkalapkezelo\Unit1.pas</Transaction>
+    <Transaction>2017/11/27 10:57:16.000.184,=D:\Programming\PROJECTS\Munkalapkezelo\Unit1.pas</Transaction>
+    <Transaction>2017/11/27 10:57:32.000.875,D:\Programming\PROJECTS\Munkalapkezelo\appctrl\Mnk_class.pas=D:\Programming\PROJECTS\Munkalapkezelo\Unit1.pas</Transaction>
+    <Transaction>2017/12/16 15:07:30.000.919,=D:\Programming\PROJECTS\Munkalapkezelo\Unit1.pas</Transaction>
+    <Transaction>2017/12/16 15:07:47.000.851,D:\Programming\PROJECTS\Munkalapkezelo\Unit1.pas=D:\Programming\PROJECTS\Munkalapkezelo\user\user_login.pas</Transaction>
+    <Transaction>2017/12/16 15:07:47.000.851,D:\Programming\PROJECTS\Munkalapkezelo\Unit1.dfm=D:\Programming\PROJECTS\Munkalapkezelo\user\user_login.dfm</Transaction>
+    <Transaction>2017/12/16 15:49:41.000.728,=D:\Programming\PROJECTS\Munkalapkezelo\Unit1.pas</Transaction>
+    <Transaction>2017/12/16 15:49:48.000.882,D:\Programming\PROJECTS\Munkalapkezelo\Unit1.pas=D:\Programming\PROJECTS\Munkalapkezelo\main_common.pas</Transaction>
+    <Transaction>2017/12/16 18:22:44.000.047,=D:\Programming\PROJECTS\Munkalapkezelo\Unit1.pas</Transaction>
+    <Transaction>2017/12/16 18:23:07.000.608,D:\Programming\PROJECTS\Munkalapkezelo\Unit1.pas=D:\Programming\PROJECTS\Munkalapkezelo\devices\device_form.pas</Transaction>
+    <Transaction>2017/12/16 18:23:07.000.608,D:\Programming\PROJECTS\Munkalapkezelo\Unit1.dfm=D:\Programming\PROJECTS\Munkalapkezelo\devices\device_form.dfm</Transaction>
+    <Transaction>2017/12/17 12:57:16.000.895,=D:\Programming\PROJECTS\Munkalapkezelo\Unit1.pas</Transaction>
+    <Transaction>2017/12/17 12:57:25.000.847,D:\Programming\PROJECTS\Munkalapkezelo\devices\device_common.pas=D:\Programming\PROJECTS\Munkalapkezelo\Unit1.pas</Transaction>
+    <Transaction>2017/12/17 12:57:47.000.045,=D:\Programming\PROJECTS\Munkalapkezelo\Unit1.pas</Transaction>
+    <Transaction>2017/12/17 12:57:57.000.538,D:\Programming\PROJECTS\Munkalapkezelo\devices\device_queries.pas=D:\Programming\PROJECTS\Munkalapkezelo\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
